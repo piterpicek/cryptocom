@@ -1,2 +1,0 @@
-# autogui
-# cryptocom
