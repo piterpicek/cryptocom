@@ -3,8 +3,9 @@ templete login crypto.com
 
 ## Log
 - version v1.0.1
-- version: auth.crypto.com - signin `auth.crypto.php`
-- version: crypto.com/nft/login `crypto.php`
+- version: auth.crypto.com - signin `auth.crypto.html`
+- version: crypto.com/nft/login `crypto.html`
+- based bootstrap v5
 
 
 ## Disclaimer
